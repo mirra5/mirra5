@@ -1,7 +1,8 @@
 
 # Hi, I'm Krishna Mirra 👋
 
-- I am a passionate java developer  💻
+- A passionate java developer  💻
+- An Engineer 📚💻
 - Code Lover ❤️
 - put my 👀 mainly on Full Stack development 
 
